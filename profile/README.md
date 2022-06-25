@@ -10,6 +10,8 @@
   •
   <a href="https://bit.ly/3wPvYEO">Contributing Guide</a>
   •
+  <a href="https://bit.ly/3OCy0PK">API Reference</a>
+  •
   <a href="https://bit.ly/32OybC8">Invest</a>
 </h3>
 
