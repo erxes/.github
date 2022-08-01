@@ -1,8 +1,17 @@
 <a href="https://www.erxes.io/![Cover](https://user-images.githubusercontent.com/1748857/169826907-5330db11-983c-4ba9-9f83-35959cdadaa4.jpg)"><img src="https://bit.ly/3LFHAPM" width="100%" alt="erxes: Free and open fair-code licensed experience operating system (XOS)">
 </a>
 
-<h3 align="center">
-  <b><a href="https://bit.ly/3dg0jkm">Get Started</a></b>
+<p align="center">
+
+  <h3 align="center">erxes Inc</h3>
+
+  <p align="center">
+    The open-source Hubspot alternative a.k.a. “The Wordpress of MarTech”
+    <br />
+    <a href="https://erxes.org"><strong>Learn more »</strong></a>
+    <br />
+    <br />
+  <a href="https://bit.ly/3dg0jkm">Get Started</a>
   •
   <a href="https://bit.ly/3iFyJSt">Community</a>
   •
@@ -13,7 +22,8 @@
   <a href="https://bit.ly/3OCy0PK">API Reference</a>
   •
   <a href="https://bit.ly/32OybC8">Invest</a>
-</h3>
+  </p>
+</p>
 
 <p align="center">erxes is a free and open fair-code licensed experience operating system (XOS). By adopting a plugin-based architecture, erxes provides more monetization options, better security and privacy, and near-infinite scalability for developers & independent agencies to their clients.</p>
 
