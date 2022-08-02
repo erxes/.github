@@ -38,6 +38,28 @@
   <a href="#">
       <img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/erxes/erxes">
   </a>
+  <a href="https://www.figma.com/@erxes">
+      <img alt="Figma" src="https://img.shields.io/badge/Figma-Design%20System-blueviolet">
+  </a>
+   <a href="https://www.erxes.org/developer/contributing/">
+      <img alt="Help Wanted" src="https://img.shields.io/badge/Help%20Wanted-Contribute-blue">
+  </a>
+  <a href="https://app.codacy.com/gh/erxes/erxes/dashboard?branch=develop/">
+      <img alt="Codacy" src="https://img.shields.io/badge/%20Codacy-yellow">
+  </a>
+   <a href="#">
+      <img alt="Star" src="https://img.shields.io/badge/stars-%202.2k-orange">
+  </a>
+   <a href="https://discord.com/invite/aaGzy3gQK5">
+      <img alt="Discord" src="https://img.shields.io/badge/Discord-%20Erxes%20Community-blueviolet">
+  </a>
+   <a href="https://explore.transifex.com/erxes-inc/erxes/">
+      <img alt="Transfix" src="https://img.shields.io/badge/translations-contribute-brightgreen">
+  </a>
+   <a href="https://explore.transifex.com/erxes-inc/erxes/">
+      <img alt="Transfix" src="https://img.shields.io/badge/twitter-blue">
+  </a>
+  
 </p>
 
 ## What does erxes mean? How do you pronounce it?
