@@ -43,7 +43,6 @@ For additional information, you can use any of these channels to get the answer 
 
 See our dedicated <a href="https://github.com/orgs/erxes/repositories" target="_blank">repository</a> for the erxes documentation, or view our documentation live:
 - <a href="http://www.erxes.org/" target="_blank">Developer docs</a>
-- <a href="https://help.erxes.io/help/knowledge-base" target="_blank">User guide</a>
 
 
 ## Get Ready With Us
@@ -51,7 +50,3 @@ See our dedicated <a href="https://github.com/orgs/erxes/repositories" target="_
 erxes XOS is your key to growth and unity.
 
 <a href="https://erxes.io/contact" target="_blank"> Feel free to contact us</a>
-
-
-
-
