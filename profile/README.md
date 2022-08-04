@@ -3,54 +3,54 @@
 
 ### Hello 👋
 
-<p align="left">Welcome to erxes, the open source of the Hubspot/Qualtrics alternative.</p>
+<p align="left">Welcome to erxes, the open source Hubspot/Qualtrics alternative.</p>
 
-erxes is an open-source experience operating system (XOS) that enables SaaS providers and digital marketing agencies/developers to create unique experiences that works for all types of business.  We are going to change the way businesses grow by delivering breakthrough value to all our community. Come along on this journey with us!
+erxes is an open-source experience operating system (XOS) that enables SaaS providers and digital marketing agencies/developers to create unique experiences that work for all types of business.  We will change how businesses grow by delivering breakthrough value to our community. Come along on this journey with us!
 
-<a href="https://github.com/orgs/erxes/projects/11/views/18" target="_blank" >See our roadmap</a>
+<a href="https://github.com/orgs/erxes/projects/11/views/18" target="_blank" >See our roadmap.</a>
 
 Achieving growth and unity within your company is possible with erxes
 
-- <a href="https://github.com/erxes/erxes" > erxes</a> - erxes codebase 
-- <a href="https://www.erxes.org/installation/docker" > erxes Docker</a> - erxes containerized 
-- <a href="https://xosdemo.erxes.io/" >erxes Demo</a>  - erxes official demo 
+- <a href="https://github.com/erxes/erxes" target="_blank" > erxes</a> - erxes codebase 
+- <a href="https://www.erxes.org/installation/docker" target="_blank" > erxes Docker</a> - erxes containerized 
+- <a href="https://xosdemo.erxes.io/" target="_blank" >erxes Demo</a>  - erxes official demo 
 
-<a href="https://github.com/orgs/erxes/repositories" >See more repositories</a>
+<a href="https://github.com/orgs/erxes/repositories" target="_blank" >See more repositories</a>
 
 
 ## Contributing
 
-- We welcome pull requests, but we do have several guidelines for contributing and for our own sanity. Please read our <a href="https://www.erxes.org/getting-started/contributing-guide" >contributing guide</a> before submitting a Pull Request to the project.
-- As part of our effort to grow and invest in the community, we are excited to share this <a href="https://erxes.io/invest">investment</a> opportunity with you. 
-- We have a <a href="https://erxes.io/marketplace" targe="_blank">marketplace</a> where plugin creators can share their work and earn from it, no matter what field they work in. It’s for anyone who wants to make money doing what they love.
+- We welcome pull requests, but we do have several guidelines for contributing and for our sanity. Please read our <a href="https://www.erxes.org/getting-started/contributing-guide" target="_blank" >contributing guide</a> before submitting a Pull Request to the project.
+- As part of our effort to grow and invest in the community, we are excited to share this <a href="https://erxes.io/invest" target="_blank">investment</a> opportunity with you. 
+- We have a <a href="https://erxes.io/marketplace" target="_blank">marketplace</a> where plugin creators can share their work and earn from it, no matter their field. It’s for anyone who wants to make money doing what they love.
 
 ### ✨ Community
 
-<a href="https://www.erxes.org/overview/deployment-overview" > erxes documentation</a> contains instructions for everything you need to know about erxes.
+<a href="https://www.erxes.org/overview/deployment-overview" target="_blank"> erxes documentation</a> contains instructions for everything you need to know about erxes.
 
 If you still have questions, please contact us! We are happy to help :) 
 
 For additional information, you can use any of these channels to get the answer you are looking for:
 
-- <a href="https://discord.com/invite/aaGzy3gQK5" >Discord</a> For live discussion with the Community
-- <a href="https://github.com/erxes/erxes" >GitHub</a> Bug reports, Contributions
-- <a href="https://github.com/erxes/erxes/discussions" >Community forum</a> Questions and Discussions
-- <a href="https://github.com/erxes/erxes/issues" >Feedback section</a> Roadmap, Feature requests & bugs
-- <a href="https://twitter.com/erxesHQ" >Twitter</a> Get the news fast
+- <a href="https://discord.com/invite/aaGzy3gQK5" target="_blank">Discord</a> For live discussion with the Community
+- <a href="https://github.com/erxes/erxes" target="_blank">GitHub</a> Bug reports, Contributions
+- <a href="https://github.com/erxes/erxes/discussions" target="_blank">Community forum</a> Questions and Discussions
+- <a href="https://github.com/erxes/erxes/issues" target="_blank">Feedback section</a> Roadmap, Feature requests & bugs
+- <a href="https://twitter.com/erxesHQ" target="_blank">Twitter</a> Get the news fast
 
 
 ## Documentation
 
-See our dedicated <a href="https://github.com/orgs/erxes/repositories">repository</a> for the erxes documentation, or view our documentation live:
-- <a href="http://www.erxes.org/">Developer docs</a>
-- <a href="https://help.erxes.io/help/knowledge-base">User guide</a>
+See our dedicated <a href="https://github.com/orgs/erxes/repositories" target="_blank">repository</a> for the erxes documentation, or view our documentation live:
+- <a href="http://www.erxes.org/" target="_blank">Developer docs</a>
+- <a href="https://help.erxes.io/help/knowledge-base" target="_blank">User guide</a>
 
 
 ## Get Ready With Us
 
 erxes XOS is your key to growth and unity.
 
-<a href="https://erxes.io/contact"> Feel free to contact us</a>
+<a href="https://erxes.io/contact" target="_blank"> Feel free to contact us</a>
 
 
 
