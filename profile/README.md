@@ -39,10 +39,6 @@ For additional information, you can use any of these channels to get the answer 
 - <a href="https://twitter.com/erxesHQ" target="_blank">Twitter</a> Get the news fast
 
 
-## Documentation
-
-See our dedicated <a href="https://github.com/orgs/erxes/repositories" target="_blank">repository</a> for the erxes documentation, or view our documentation live:
-- <a href="http://www.erxes.org/" target="_blank">Developer docs</a>
 
 
 ## Get Ready With Us
