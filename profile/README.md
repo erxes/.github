@@ -3,7 +3,7 @@
 
 ### Hello 👋
 
-<p align="left">Welcome to erxes, the open source Hubspot/Qualtrics alternative.</p>
+<p align="left">Welcome to erxes, the open source Hubspot alternative.</p>
 
 erxes is an open-source experience operating system (XOS) that enables SaaS providers and digital marketing agencies/developers to create unique experiences that work for all types of business.  We will change how businesses grow by delivering breakthrough value to our community. Come along on this journey with us!
 
