@@ -22,11 +22,11 @@ Achieving growth and unity within your company is possible with erxes
 
 - We welcome pull requests, but we do have several guidelines for contributing and for our sanity. Please read our <a href="https://github.com/erxes/erxes/blob/master/CONTRIBUTING.md" target="_blank" >**contributing guide**</a> before submitting a Pull Request to the project.
 - As part of our effort to grow and invest in the community, we are excited to share this <a href="https://erxes.io/invest" target="_blank">**investment**</a> opportunity with you. 
-- We have a <a href="https://erxes.io/marketplace" target="_blank">**marketplace**</a> that you can place your plugins that you have developed and earn from it. This is <a href="https://www.erxes.org/introduction/introduction" target="_blank">**the complete guideline**</a> to show you how you can make it happen. It’s for anyone who wants to make money doing what they love.
+- We have a <a href="https://erxes.io/marketplace" target="_blank">**marketplace**</a> that you can place your plugins that you have developed and earn from it. This is <a href="https://docs.erxes.io/introduction/introduction">**the complete guideline**</a> to show you how you can make it happen. It’s for anyone who wants to make money doing what they love.
 
 ### ✨ Community
 
-<a href="https://www.erxes.org/introduction/introduction" target="_blank"> **erxes documentation**</a> contains instructions for everything you need to know about erxes.
+<a href="https://docs.erxes.io/introduction/introduction"> **erxes documentation**</a> contains instructions for everything you need to know about erxes.
 
 If you still have questions, please contact us! We are happy to help :) 
 
