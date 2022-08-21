@@ -12,7 +12,7 @@ erxes is an open-source experience operating system (XOS) that enables SaaS prov
 Achieving growth and unity within your company is possible with erxes
 
 - <a href="https://github.com/erxes/erxes" target="_blank" > **erxes**</a> - erxes codebase 
-- <a href="https://www.erxes.org/installation/docker" target="_blank" > **erxes Docker**</a> - erxes containerized 
+- <a href="https://docs.erxes.io/developer/mac" target="_blank" > **erxes Docker**</a> - erxes containerized 
 - <a href="https://xosdemo.erxes.io/" target="_blank" >**erxes Demo**</a>  - erxes official demo 
 
 <a href="https://github.com/orgs/erxes/repositories" target="_blank" >**See more repositories**</a>
