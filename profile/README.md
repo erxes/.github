@@ -34,7 +34,6 @@ For additional information, you can use any of these channels to get the answer 
 
 - <a href="https://discord.com/invite/aaGzy3gQK5" target="_blank">**Discord**</a> For live discussion with the Community
 - <a href="https://github.com/erxes/erxes" target="_blank">**GitHub**</a> Bug reports, Contributions
-- <a href="https://github.com/erxes/erxes/discussions" target="_blank">**Community forum**</a> Questions and Discussions
 - <a href="https://github.com/erxes/erxes/issues" target="_blank">**Feedback section**</a> Roadmap, Feature requests & bugs
 - <a href="https://twitter.com/erxesHQ" target="_blank">**Twitter**</a> Get the news fast
 
