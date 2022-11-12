@@ -5,7 +5,7 @@
 
 <p align="left">Welcome to erxes, the open source Hubspot alternative.</p>
 
-erxes is an open-source experience operating system (XOS) that enables SaaS providers and digital marketing agencies/developers to create unique experiences that work for all types of business.  We will change how businesses grow by delivering breakthrough value to our community. Come along on this journey with us!
+erxes is an open-source experience operating system (XOS) that enables SaaS providers and digital marketing agencies/developers to create unique experiences that work for all types of businesses.  We will change how businesses grow by delivering breakthrough value to our community. Come along on this journey with us!
 
 <a href="https://github.com/orgs/erxes/projects/11/views/18" target="_blank" >**See our roadmap**</a>.
 
