@@ -1,4 +1,4 @@
-<a href="https://www.erxes.io/![Cover](https://erxes-docs.s3.us-west-2.amazonaws.com/xos.jpeg)"><img src="https://erxes-docs.s3.us-west-2.amazonaws.com/xos.jpeg" width="100%" alt="erxes: Free and open fair-code licensed experience operating system (XOS)">
+<a href="https://erxes.io/" target="_blank"><img src="https://erxes-docs.s3.us-west-2.amazonaws.com/xos.jpeg" width="100%" alt="erxes: Free and open fair-code licensed experience operating system (XOS)">
 </a>
 
 ### Hello 👋
