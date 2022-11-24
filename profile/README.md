@@ -38,7 +38,13 @@ For additional information, you can use any of these channels to get the answer 
 - <a href="https://twitter.com/erxesHQ" target="_blank">**Twitter**</a> Get the news fast
 
 
+## erxes Rewards
+ Contributed to erxes Inc? Here is a big thank you from our community to you.
+ Claim your badge and showcase them with pride.
+ Let us inspire more folks !
 
+ ![erxes Inc Badges](https://aviyel.com/assets/uploads/rewards/project_rewards/erxes_inc_38/space/512/share.png)
+ ### **[Claim Now!](https://aviyel.com/projects/38/erxes/rewards)**
 
 ## Get Ready With Us
 
