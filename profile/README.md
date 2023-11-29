@@ -12,8 +12,7 @@ erxes is an open-source experience operating system (XOS) that enables SaaS prov
 Achieving growth and unity within your company is possible with erxes
 
 - <a href="https://github.com/erxes/erxes" target="_blank" > **erxes**</a> - erxes codebase 
-- <a href="https://docs.erxes.io/docs/developer/ubuntu" target="_blank" > **erxes Docker**</a> - erxes containerized 
-- <a href="https://xosdemo.erxes.io/" target="_blank" >**erxes Demo**</a>  - erxes official demo 
+- <a href="https://docs.erxes.io/quickstart/deployment" target="_blank" > **erxes Docker**</a> - erxes containerized  
 
 <a href="https://github.com/orgs/erxes/repositories" target="_blank" >**See more repositories**</a>
 
@@ -22,11 +21,11 @@ Achieving growth and unity within your company is possible with erxes
 
 - We welcome pull requests, but we do have several guidelines for contributing and for our sanity. Please read our <a href="https://github.com/erxes/erxes/blob/master/CONTRIBUTING.md" target="_blank" >**contributing guide**</a> before submitting a Pull Request to the project.
 - As part of our effort to grow and invest in the community, we are excited to share this <a href="https://erxes.io/invest" target="_blank">**investment**</a> opportunity with you. 
-- We have a <a href="https://erxes.io/marketplace" target="_blank">**marketplace**</a> that you can place your plugins that you have developed and earn from it. This is <a href="https://docs.erxes.io/docs/intro">**the complete guideline**</a> to show you how you can make it happen. It’s for anyone who wants to make money doing what they love.
+- We have a <a href="https://erxes.io/marketplace" target="_blank">**marketplace**</a> that you can place your plugins that you have developed and earn from it. This is <a href="https://docs.erxes.io/">**the complete guideline**</a> to show you how you can make it happen. It’s for anyone who wants to make money doing what they love.
 
 ### ✨ Community
 
-<a href="https://docs.erxes.io/docs/intro"> **erxes documentation**</a> contains instructions for everything you need to know about erxes.
+<a href="https://docs.erxes.io/"> **erxes documentation**</a> contains instructions for everything you need to know about erxes.
 
 If you still have questions, please contact us! We are happy to help :) 
 
@@ -36,15 +35,6 @@ For additional information, you can use any of these channels to get the answer 
 - <a href="https://github.com/erxes/erxes" target="_blank">**GitHub**</a> Bug reports, Contributions
 - <a href="https://github.com/erxes/erxes/issues" target="_blank">**Feedback section**</a> Roadmap, Feature requests & bugs
 - <a href="https://twitter.com/erxesHQ" target="_blank">**Twitter**</a> Get the news fast
-
-
-## erxes Rewards
- Contributed to erxes Inc? Here is a big thank you from our community to you.
- Claim your badge and showcase them with pride.
- Let us inspire more folks !
-
- ![erxes Badges](https://aviyel.com/assets/uploads/rewards/share/project/38/512/share.png)
- ### **[Claim Now!](https://aviyel.com/projects/38/erxes/rewards)**
 
 ## Get Ready With Us
 
