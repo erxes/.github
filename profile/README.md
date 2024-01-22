@@ -3,9 +3,9 @@
 
 ### Hello 👋
 
-<p align="left">Welcome to erxes, the open source Hubspot alternative.</p>
+<p align="left">Welcome to erxes, the source available experience management infrastructure.</p>
 
-erxes is an open-source experience operating system (XOS) that enables SaaS providers and digital marketing agencies/developers to create unique experiences that work for all types of businesses.  We will change how businesses grow by delivering breakthrough value to our community. Come along on this journey with us!
+Pioneering the future of experiences through XOS (Experience Operating System), a term coined by us. erxes serves as an alternative to the combined functionalities of Hubspot (CRM & Marketing automation) and Qualitics (Experience management). We aim to redefine business growth by providing unparalleled value to our community. Join us on this transformative journey!
 
 <a href="https://github.com/orgs/erxes/projects/11/views/18" target="_blank" >**See our roadmap**</a>.
 
