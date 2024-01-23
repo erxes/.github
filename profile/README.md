@@ -7,8 +7,6 @@
 
 Pioneering the future of experiences through XOS (Experience Operating System), a term coined by us. erxes serves as an alternative to the combined functionalities of Hubspot (CRM & Marketing automation) and Qualitics (Experience management). We aim to redefine business growth by providing unparalleled value to our community. Join us on this transformative journey!
 
-<a href="https://github.com/orgs/erxes/projects/11/" target="_blank" >**See our roadmap**</a>.
-
 Achieving growth and unity within your company is possible with erxes
 
 - <a href="https://github.com/erxes/erxes" target="_blank" > **erxes**</a> - erxes codebase 
