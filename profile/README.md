@@ -5,7 +5,7 @@
 
 <p align="left">Welcome to erxes, the source available experience management infrastructure.</p>
 
-Pioneering the future of experiences through XOS (Experience Operating System), a term coined by us. erxes serves as an alternative to the combined functionalities of Hubspot (CRM & Marketing automation) and Qualitics (Experience management). We aim to redefine business growth by providing unparalleled value to our community. Join us on this transformative journey!
+Pioneering the future of experiences through XOS (Experience Operating System), a term coined by us. erxes serves as an alternative to the combined functionalities of Hubspot (CRM & Marketing automation) and Qualtrics (Experience management). We aim to redefine business growth by providing unparalleled value to our community. Join us on this transformative journey!
 
 Achieving growth and unity within your company is possible with erxes
 
