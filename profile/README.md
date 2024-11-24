@@ -10,7 +10,7 @@ Pioneering the future of experiences through XOS (Experience Operating System), 
 Achieving growth and unity within your company is possible with erxes
 
 - <a href="https://github.com/erxes/erxes" target="_blank" > **erxes**</a> - erxes codebase 
-- <a href="https://docs.erxes.io/quickstart/deployment" target="_blank" > **erxes Docker**</a> - erxes containerized  
+- <a href="https://erxes.io/docs" target="_blank" > **erxes Docker**</a> - erxes containerized  
 
 <a href="https://github.com/orgs/erxes/repositories" target="_blank" >**See more repositories**</a>
 
@@ -19,11 +19,11 @@ Achieving growth and unity within your company is possible with erxes
 
 - We welcome pull requests, but we do have several guidelines for contributing and for our sanity. Please read our <a href="https://github.com/erxes/erxes/blob/master/CONTRIBUTING.md" target="_blank" >**contributing guide**</a> before submitting a Pull Request to the project.
 - As part of our effort to grow and invest in the community, we are excited to share this <a href="https://erxes.io/invest" target="_blank">**investment**</a> opportunity with you. 
-- We have a <a href="https://erxes.io/marketplace" target="_blank">**marketplace**</a> that you can place your plugins that you have developed and earn from it. This is <a href="https://docs.erxes.io/">**the complete guideline**</a> to show you how you can make it happen. It’s for anyone who wants to make money doing what they love.
+- We have a <a href="https://erxes.io/marketplace" target="_blank">**marketplace**</a> that you can place your plugins that you have developed and earn from it. This is <a href="https://erxes.io/docs">**the complete guideline**</a> to show you how you can make it happen. It’s for anyone who wants to make money doing what they love.
 
 ### ✨ Community
 
-<a href="https://docs.erxes.io/"> **erxes documentation**</a> contains instructions for everything you need to know about erxes.
+<a href="https://erxes.io/docs"> **erxes documentation**</a> contains instructions for everything you need to know about erxes.
 
 If you still have questions, please contact us! We are happy to help :) 
 
